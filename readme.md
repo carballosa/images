@@ -3,7 +3,7 @@ Stackblitz does not support uploading image assets to their projects
 
 ## Option 1 (preferred)
 1. Navigate to the `images` folder in my GitHub repository:
-> ```https://github.com/carballosa/images```
+> https://github.com/carballosa/images
 2. Click the button `Upload Files` 
 3. Drag and drop the image files into the drop section of the page
 4. Click on the button `Commit changes`
