@@ -19,4 +19,4 @@ Stackblitz does not support uploading image assets to their projects
 4. Copy the image URL that should look like this:
 >  ```https://user-images.githubusercontent.com/12849860/58243805-ad9bc280-7d51-11e9-8182-68b45b48e38b.png```
 5. Close the page `without` actually creating the issue
-6. In the Stackblitz project, paste that URL in the value of the src attribute of my img elements
+6. In the Stackblitz project, paste this URL in the value of the `src` attribute of the html `img` elements
